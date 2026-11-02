@@ -1,0 +1,6 @@
+{
+  "name": "PulseGrid — 24/7 Web & Social Intelligence Profile",
+  "description": "An Instagram-inspired visual intelligence profile that watches custom websites and social platforms 24/7, captures targeted updates, and delivers instant notifications with high-contrast accessibility and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
